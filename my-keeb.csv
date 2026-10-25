@@ -1,0 +1,4 @@
+"Reference","Qty","Value","DNP","Footprint","Datasheet","Description"
+"A1","1","RaspberryPi_Pico","","Module:RaspberryPi_Pico_Common_THT","https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf","Versatile and inexpensive microcontroller module powered by RP2040 dual-core Arm Cortex-M0+ processor up to 133 MHz, 264kB SRAM, 2MB QSPI flash; also supports Raspberry Pi Pico 2"
+"S1,S2,S3","3","MX_stab","","PCM_marbastlib-mx:STAB_MX_P_2u","","Cherry MX-style stabilizer"
+"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12,SW13,SW14,SW15,SW16,SW17,SW18,SW19,SW21,SW22,SW23,SW24,SW25,SW26","25","SW_Push","","PCM_marbastlib-mx:SW_MX_1u","","Push button switch, generic, two pins"
