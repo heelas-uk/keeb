@@ -1,0 +1,4 @@
+cargo:rustc-link-search=/workspaces/keeb/steno/target/thumbv6m-none-eabi/release/build/embassy-rp-ae9a0f789ee1f75d/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link-rp.x.in
+cargo::rustc-check-cfg=cfg(has_fpu)

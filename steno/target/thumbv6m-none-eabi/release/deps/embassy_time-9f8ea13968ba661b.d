@@ -1,0 +1,15 @@
+/workspaces/keeb/steno/target/thumbv6m-none-eabi/release/deps/embassy_time-9f8ea13968ba661b.d: /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/lib.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/fmt.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/delay.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/duration.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/instant.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/timer.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/../README.md
+
+/workspaces/keeb/steno/target/thumbv6m-none-eabi/release/deps/libembassy_time-9f8ea13968ba661b.rlib: /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/lib.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/fmt.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/delay.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/duration.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/instant.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/timer.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/../README.md
+
+/workspaces/keeb/steno/target/thumbv6m-none-eabi/release/deps/libembassy_time-9f8ea13968ba661b.rmeta: /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/lib.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/fmt.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/delay.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/duration.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/instant.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/timer.rs /home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/../README.md
+
+/home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/lib.rs:
+/home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/fmt.rs:
+/home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/delay.rs:
+/home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/duration.rs:
+/home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/instant.rs:
+/home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/timer.rs:
+/home/codespace/.cargo/git/checkouts/embassy-c08a80187403f815/e7a576f/embassy-time/src/../README.md:
+
+# env-dep:DEFMT_LOG=debug

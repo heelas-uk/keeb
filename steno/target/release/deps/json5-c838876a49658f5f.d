@@ -1,0 +1,12 @@
+/workspaces/keeb/steno/target/release/deps/json5-c838876a49658f5f.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/char.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/error.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/ser.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/unicode.rs
+
+/workspaces/keeb/steno/target/release/deps/libjson5-c838876a49658f5f.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/char.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/error.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/ser.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/unicode.rs
+
+/workspaces/keeb/steno/target/release/deps/libjson5-c838876a49658f5f.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/char.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/error.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/ser.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/unicode.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/de.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/char.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/error.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/ser.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/json5-1.3.6/src/unicode.rs:

@@ -1,0 +1,4 @@
+cargo:rustc-link-search=/workspaces/keeb/steno/target/thumbv6m-none-eabi/release/build/defmt-7244208c2c9a3cdd/out
+cargo:rustc-cfg=no_cas
+cargo:rustc-check-cfg=cfg(c_variadic)
+cargo:rustc-check-cfg=cfg(no_cas)

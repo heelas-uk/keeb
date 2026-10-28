@@ -1,0 +1,33 @@
+[keyboard]
+name = "Steno Keyboard"
+product_name = "Alfred's keyboard" 
+vendor_id = 0x4c4b
+product_id = 0x4643
+manufacturer = "Alfred Heelas"
+serial_number = "steno:1"
+board = "pi_pico_w"
+# USB is enabled by default for most chips
+# Set to false if you don't want USB
+usb_enable = true
+
+[matrix]
+# Direct Pin Matrix is a Matrix of buttons connected directly to pins. It conflicts with the above.
+matrix_type = "direct_pin"
+direct_pins = [
+    ["PIN_0", "PIN_1", "PIN_2", "PIN_3", "PIN_4", "_", "PIN_8", "PIN_9", "PIN_10", "PIN_11", "PIN_12"],
+    ["_", "PIN_5", "PIN_6", "PIN_7", "_", "_", "PIN_13", "PIN_14", "PIN_15", "PIN_16", "PIN_17"],
+    ["_", "_", "PIN_22", "PIN_19", "PIN_20", "PIN_21", "PIN_18", "_", "_", "_", "_"  ]
+]
+direct_pin_low_active = true
+[layout]
+cols = 11
+rows = 3
+layers = 1
+[layout.layer0]
+keymap = """
+    "STN(S1)", "STN(T)", "STN(P)", "STN(H)", "STN(STAR1)", "_", "STN(RF)", "STN(RP)", "STN(RL)", "STN(RT)", "STN(RD)",
+    "_", "STN(K)", "STN(W)", "STN(R)", "_", "_", "STN(RR)", "STN(RB)", "STN(RG)", "STN(RS)", "STN(RZ)",
+    "_", "_", "STN(NUM1)", "STN(A)", "STN(O)", "STN(E)", "STN(U)", "_", "_", "_", "_"
+"""
+[ble]
+enabled = true

@@ -1,0 +1,14 @@
+/workspaces/keeb/steno/target/thumbv6m-none-eabi/release/deps/thiserror-80e24e727545f9c0.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /workspaces/keeb/steno/target/thumbv6m-none-eabi/release/build/thiserror-0590d091042bdc47/out/private.rs
+
+/workspaces/keeb/steno/target/thumbv6m-none-eabi/release/deps/libthiserror-80e24e727545f9c0.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /workspaces/keeb/steno/target/thumbv6m-none-eabi/release/build/thiserror-0590d091042bdc47/out/private.rs
+
+/workspaces/keeb/steno/target/thumbv6m-none-eabi/release/deps/libthiserror-80e24e727545f9c0.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /workspaces/keeb/steno/target/thumbv6m-none-eabi/release/build/thiserror-0590d091042bdc47/out/private.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs:
+/workspaces/keeb/steno/target/thumbv6m-none-eabi/release/build/thiserror-0590d091042bdc47/out/private.rs:
+
+# env-dep:OUT_DIR=/workspaces/keeb/steno/target/thumbv6m-none-eabi/release/build/thiserror-0590d091042bdc47/out
