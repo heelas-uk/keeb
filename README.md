@@ -3,6 +3,10 @@ A project for hackclub ~keeb~ forge YSWS
 
 It's a stenography keyboard. It is custom because my keyboard doesn't have proper n key roll over. This is also my first time in cad and kicad so its bad. 
 
+This is the schematic of what I have made. 
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/3e910d52-c2f3-4ae9-b271-281ef4535885" />
+
+
 # How to make
 
 1. Acquire the pcb and 3d model of the case in pla (realistically you should use the one with no top since the top plate isn't essential and a pain to print).
@@ -11,7 +15,7 @@ It's a stenography keyboard. It is custom because my keyboard doesn't have prope
 3. Acquire other components per bill of materials
 <img width="1561" height="310" alt="image" src="https://github.com/user-attachments/assets/331b6c1d-870b-421b-8d65-84514566967a" />
 4. Soldering fun. Attach the components with lead free solder.
-
+<img width="1916" height="927" alt="image" src="https://github.com/user-attachments/assets/d346aa68-3a9e-452e-a069-61751699326f" />
 5. Check it works... kinda really important before you put it in a case
 
 6. Build the case with self tapping screws so there is good stability.
